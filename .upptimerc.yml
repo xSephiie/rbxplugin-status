@@ -4,7 +4,7 @@ repo: rbxplugin-status
 
 sites:
   - name: RBX Plugin
-    url: https://rbxpluginv1.onrender.com
+    url: https://rbx-plugin.onrender.com
     method: GET
     expectedStatus: 200
 
